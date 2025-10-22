@@ -1,0 +1,47 @@
+/* Make everything nice and colorful */
+body {
+    font-family: "Times New Roman", 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: white;
+    background-image: url(ucu.run.jpg);
+}
+
+
+
+/* The top part of the website */
+header {
+    background-color: #002244; /* darker blue */
+    padding: 20px;
+    text-align: center;
+}
+
+
+/* Make the links look nice */
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* The big picture section */
+style
+        *{
+            margin: 0px;
+            padding: 0px;
+        }
+        
+    
+style
+
+h2 {
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #002244;
+    padding: 10px;
+    text-align: center;
+}
